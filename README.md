@@ -1,7 +1,7 @@
 # Selectivity_SOGrazer
 
 ## About this project
-This project is supplement to the article "Selective feeding in Southern Ocean key grazers – diet composition of krill and salps" by Pauli et al. and contains relevant R code supporting the main analyses of the article.
+This respository is supplement to the article "Selective feeding in Southern Ocean key grazers – diet composition of krill and salps" by Pauli et al. and contains relevant R code supporting the main analyses of the article.
 
 The raw, primer-trimmed sequences of this study are deposited in the European Nucleotide Archive (ENA), project number PRJEB40056 (http://www.ebi.ac.uk/ena/data/view/PRJEB40056).
 
