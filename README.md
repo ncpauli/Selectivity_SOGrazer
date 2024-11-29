@@ -7,4 +7,4 @@ The raw, primer-trimmed sequences of this study are deposited in the European Nu
 
 If you want to use this code in your research, please cite the corresponding article:
 
-Pauli, N.-C., Metfies, K., Pakhomov, E.A., Neuhaus, S., Graeve, M., Wenta, P., Flintrop, C.M., BAdewien, T.H., Iversen, M.H., Meyer, B. Selective feeding in Southern Ocean key grazers – diet composition of krill and salps (under review) Communications Biology
+Pauli, NC., Metfies, K., Pakhomov, E.A. et al. Selective feeding in Southern Ocean key grazers—diet composition of krill and salps. Commun Biol 4, 1061 (2021). https://doi.org/10.1038/s42003-021-02581-5
